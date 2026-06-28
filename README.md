@@ -1,4 +1,4 @@
-. Setup Instructions
+1. Setup Instructions
 How to install and run the tests:
 
 Make sure Node.js and npm are installed (download from nodejs.org).
